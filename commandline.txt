@@ -1,0 +1,15 @@
+-availablevidmem 10.0
+-memrestrict 999999999
+-forcehighqualitymirrors
+-notimefix
+-forcer2vb
+-notimefix
+-noprecache
+-norestrictions
+-nomemrestrict
+-noswapdelay
+-framelimit 30
+reflectionresolution 2160
+shadowresolution 2160
+fullspecaudio
+dx9
